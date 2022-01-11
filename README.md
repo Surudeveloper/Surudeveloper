@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+[![YouTube Badge](red)]
 [![Linkedin Badge](https://img.shields.io/badge/-Suru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suresh-kumar-426307116/)](https://www.linkedin.com/in/suresh-kumar-426307116/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)
+[![Website Badge](green)](https://www.aakash.me)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
