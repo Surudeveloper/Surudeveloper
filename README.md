@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Suresh Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suresh0602)](https://www.linkedin.com/in/suresh0602)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Suresh.Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suresh0602)](https://www.linkedin.com/in/suresh0602)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/) -->
 
 I'm
 Full Stack Learner
