@@ -5,7 +5,7 @@
 
 I'm
 Full Stack Learner
-The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development (NodeJs), front-end development (HTML5, Javascript),database(MongoDB))
+The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development (NodeJs), front-end development (HTML5, Javascript),database(MongoDB)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/surudeveloper/count.svg)
